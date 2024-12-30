@@ -1,0 +1,17 @@
+timezone=9
+shadow=False
+font="DejaVuSansMono.ttf"
+fontsize=24
+drawBackground=False
+background=1
+colorForeground=0xFFFFFF
+colorBackground=0x404040
+colorBackground2=0x303030
+clockX=67
+clockY=31
+clockSpace1=60
+clockSpace2=60
+colonX=97
+colonY=24
+colonSpace1=60
+colonSign=":"
